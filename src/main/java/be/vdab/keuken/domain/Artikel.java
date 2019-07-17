@@ -1,5 +1,7 @@
 package be.vdab.keuken.domain;
 
+//test
+
 import java.io.Serializable;
 import java.math.BigDecimal;
 
